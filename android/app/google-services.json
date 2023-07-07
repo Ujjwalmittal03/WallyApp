@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "792931015701",
+    "project_id": "wallyapp-1a7e4",
+    "storage_bucket": "wallyapp-1a7e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792931015701:android:4c9b218503e90c3989021c",
+        "android_client_info": {
+          "package_name": "com.wallyapp.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792931015701-241gktasshee2547m9mibk409t8a3vu1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wallyapp.app",
+            "certificate_hash": "76c74517ca7550544dc43f5bf4a28a3fa8d95955"
+          }
+        },
+        {
+          "client_id": "792931015701-3r4u43kq9negpklvrpkcfit0m86q6tkj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wallyapp.app",
+            "certificate_hash": "41da3f529cd16d90afbcde82dccbf409b7f383aa"
+          }
+        },
+        {
+          "client_id": "792931015701-6qdjkv3j9jnikrb9att5dv774qei36pd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wallyapp.app",
+            "certificate_hash": "a20a470923e70957128b5f4e445a2491f1b1cf99"
+          }
+        },
+        {
+          "client_id": "792931015701-oqhr4k8ecj52erk2s155upareq01fgr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA10A-JbnTaS0On0Lf5bnl0jBASqOCgnrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792931015701-oqhr4k8ecj52erk2s155upareq01fgr7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "792931015701-m0crsg770cgrgg60vmks931v24b9t3s9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wallyapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
